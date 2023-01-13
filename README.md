@@ -37,4 +37,11 @@ Lien vers un autre fichier [Vers test.md](test.md).
 
 # Ajouter une image
 
-![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png).  
+![Logo](https://codabee.com/wp-content/uploads/2022/04/logo_white.png)    
+
+# Ajouter un emoji
+
+Pour trouver la liste des emojis disponibles avec GitHub: [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+
+C'est super fun Git & GitHub :rofl:  
+
